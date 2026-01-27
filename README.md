@@ -3,7 +3,8 @@
 I'm a software engineer focused on building **scalable, secure, and high-performance systems**.  
 I enjoy working close to the metal when it matters, and higher-level abstractions when they help move fast.
 
-Most of my work revolves around **distributed systems, backend infrastructure, and product-oriented engineering**.
+Most of my work revolves around **distributed systems, backend infrastructure, and product-oriented engineering**.  
+Some of the projects below are proprietary to my startup — descriptions are safe to share publicly.
 
 ---
 
@@ -31,9 +32,11 @@ Most of my work revolves around **distributed systems, backend infrastructure, a
 
 ## 🚀 Projects
 
+> **Note:** Some projects are proprietary. Public demo repos and sanitized examples are available [here](#) (if applicable).
+
 ### 🔐 End-to-End Encrypted Chat (Rust)
-- Secure messaging system with privacy-first design  
-- Custom cryptographic workflows  
+- Privacy-first secure messaging system  
+- Custom cryptographic workflows for message and group security  
 - Actively under development  
 
 <details>
@@ -48,18 +51,18 @@ Most of my work revolves around **distributed systems, backend infrastructure, a
 ---
 
 ### 🧩 Backend Platform (Rust & Go)
-- **IAM platform** — authentication & authorization  
-- **Social graph & relationship modeling**  
-- **Search index, activity feed, notification system**  
-- **Content store**  
+- IAM platform — authentication & authorization  
+- Social graph & relationship modeling  
+- Search index, activity feed, notification system  
+- Content store  
 
-Rust powers security-critical core services, while Go handles **high-throughput, scalable backend services**.  
+Rust powers security-critical services; Go powers **high-throughput, scalable backend services**.  
 
 <details>
 <summary>Learn more</summary>
 
-- Multi-service architecture designed for horizontal scaling  
-- Event-driven interactions with queues/streams  
+- Event-driven architecture with queues and streams  
+- Multi-service horizontal scaling  
 - Robust logging, monitoring, and observability  
 
 </details>
@@ -67,23 +70,22 @@ Rust powers security-critical core services, while Go handles **high-throughput,
 ---
 
 ### 🟢 Real-Time Presence System (Go)
-- WebSocket-based online/offline/active user tracking  
-- Heartbeat-driven liveness and TTL-based stale session detection  
-- Multi-device presence aggregation  
+- Tracks online/offline/active users in real time  
+- Multi-device aggregation with heartbeat and TTL-based liveness  
 - Event-driven updates integrated with chat, feeds, and notifications  
 - Designed for **eventual consistency**, high concurrency, and privacy-conscious propagation  
 
 ---
 
 ### 🎥 Media Processing (C++)
-- Performance-focused media pipelines  
+- Performance-focused pipelines for media ingestion and processing  
 - Low-level latency and throughput optimizations  
 
 ---
 
 ### 📱 Social Media App (Flutter)
 - Cross-platform mobile application  
-- Integrates tightly with custom backend services  
+- Integrates seamlessly with custom backend services  
 
 ---
 
@@ -105,5 +107,3 @@ Rust powers security-critical core services, while Go handles **high-throughput,
 - GitHub: [https://github.com/khomotjo-codes](https://github.com/khomotjo-codes)  
 
 Always open to interesting discussions, collaboration, and hard problems.
-
-*Note: The systems described above are proprietary to my startup. Public demos of core functionality are available in the `demo/` repos. 

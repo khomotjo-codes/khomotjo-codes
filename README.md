@@ -10,81 +10,98 @@ Most of my work revolves around **distributed systems, backend infrastructure, a
 ## 🛠 Tech Stack
 
 **Languages**
-- 🦀 Rust (systems, security, backend services)
-- 🐹 Go (distributed services, feeds, notifications)
-- 🐍 Python
-- 💙 Dart / Flutter
-- ⚙️ C++ (media & performance-heavy workloads)
-- 🌙 Lua (currently learning)
+- 🦀 Rust — systems, security, backend services  
+- 🐹 Go — distributed services, feeds, notifications  
+- 🐍 Python  
+- ⚙️ C++ — media & performance-heavy workloads  
+- 💙 Dart / Flutter  
+- 🌙 Lua — currently learning  
 
 **Domains**
-- End-to-end encryption (E2EE)
-- Identity & Access Management (IAM)
-- Social graphs & activity feeds
-- Search & indexing
-- Notification systems
-- Media processing
-- Mobile app development
+- End-to-end encryption (E2EE)  
+- Identity & Access Management (IAM)  
+- Social graphs & activity feeds  
+- Search & indexing  
+- Notification systems  
+- Real-time presence (Go)  
+- Media processing  
+- Mobile app development  
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Projects
 
 ### 🔐 End-to-End Encrypted Chat (Rust)
-- Secure messaging system with a focus on privacy
-- Custom cryptographic workflows
-- Actively under development
+- Secure messaging system with privacy-first design  
+- Custom cryptographic workflows  
+- Actively under development  
+
+<details>
+<summary>Learn more</summary>
+
+- Device-level keys and forward secrecy  
+- Group messaging & offline delivery support  
+- End-to-end encrypted storage and retrieval  
+
+</details>
+
+---
 
 ### 🧩 Backend Platform (Rust & Go)
-- **IAM platform** (authentication & authorization)
-- **Social graph** & relationship modeling
-- **Search index**
-- **Activity feed**
-- **Notification system**
-- **Content store**
+- **IAM platform** — authentication & authorization  
+- **Social graph & relationship modeling**  
+- **Search index, activity feed, notification system**  
+- **Content store**  
 
-Rust is used for core services and security-critical components,  
-Go powers scalable, high-throughput services.
+Rust powers security-critical core services, while Go handles **high-throughput, scalable backend services**.  
+
+<details>
+<summary>Learn more</summary>
+
+- Multi-service architecture designed for horizontal scaling  
+- Event-driven interactions with queues/streams  
+- Robust logging, monitoring, and observability  
+
+</details>
+
+---
+
+### 🟢 Real-Time Presence System (Go)
+- WebSocket-based online/offline/active user tracking  
+- Heartbeat-driven liveness and TTL-based stale session detection  
+- Multi-device presence aggregation  
+- Event-driven updates integrated with chat, feeds, and notifications  
+- Designed for **eventual consistency**, high concurrency, and privacy-conscious propagation  
+
+---
 
 ### 🎥 Media Processing (C++)
-- Performance-focused media pipelines
-- Low-level optimizations where latency and throughput matter
+- Performance-focused media pipelines  
+- Low-level latency and throughput optimizations  
+
+---
 
 ### 📱 Social Media App (Flutter)
-- Cross-platform mobile application
-- Integrated with custom backend services
-
-## 🟢 Real-Time Presence (Go)
-
-A scalable real-time presence service powering social features.
-
-- WebSocket-based connection management
-- Heartbeat + TTL-based liveness detection
-- Multi-device presence aggregation
-- Horizontally scalable, stateless service design
-- Event-driven presence updates for downstream systems
-- Privacy-aware presence propagation
-
-Used across chat, feeds, and notification pipelines.
+- Cross-platform mobile application  
+- Integrates tightly with custom backend services  
 
 ---
 
 ## 🌱 Currently Learning
-- Lua
-- Deeper distributed systems patterns
-- Improving media processing pipelines
+- Lua  
+- Deeper distributed systems patterns  
+- Improving media processing pipelines  
 
 ---
 
 ## 💡 Engineering Philosophy
-- Prefer **correctness and clarity** over cleverness
-- Build systems that scale **by design**, not by accident
-- Security and performance are features, not afterthoughts
+- Prefer **correctness and clarity** over cleverness  
+- Build systems that scale **by design**, not by accident  
+- Security and performance are **features, not afterthoughts**  
 
 ---
 
 ## 📫 Get in Touch
-- GitHub: [https://github.com/khomotjo-codes](https://github.com/khomotjo-codes)
+- GitHub: [https://github.com/khomotjo-codes](https://github.com/khomotjo-codes)  
 
 Always open to interesting discussions, collaboration, and hard problems.
-

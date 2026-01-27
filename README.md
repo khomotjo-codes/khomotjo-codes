@@ -54,6 +54,19 @@ Go powers scalable, high-throughput services.
 - Cross-platform mobile application
 - Integrated with custom backend services
 
+## 🟢 Real-Time Presence (Go)
+
+A scalable real-time presence service powering social features.
+
+- WebSocket-based connection management
+- Heartbeat + TTL-based liveness detection
+- Multi-device presence aggregation
+- Horizontally scalable, stateless service design
+- Event-driven presence updates for downstream systems
+- Privacy-aware presence propagation
+
+Used across chat, feeds, and notification pipelines.
+
 ---
 
 ## 🌱 Currently Learning

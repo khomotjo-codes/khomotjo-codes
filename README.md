@@ -105,3 +105,5 @@ Rust powers security-critical core services, while Go handles **high-throughput,
 - GitHub: [https://github.com/khomotjo-codes](https://github.com/khomotjo-codes)  
 
 Always open to interesting discussions, collaboration, and hard problems.
+
+*Note: The systems described above are proprietary to my startup. Public demos of core functionality are available in the `demo/` repos. 

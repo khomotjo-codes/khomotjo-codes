@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Ngobeni Khomotjo
 
-I'm a software engineer focused on building **scalable, secure, and high-performance systems**.  
-I enjoy working close to the metal when it matters, and higher-level abstractions when they help move fast.
+I'm a software engineer focused on building **scalable, secure, and high-performance systems**. I enjoy working close to the metal when it matters, and higher-level abstractions when they help move fast.
 
 Most of my work revolves around **distributed systems, backend infrastructure, and product-oriented engineering**.  
-Some of the projects below are proprietary to my startup — descriptions are safe to share publicly.
 
 ---
 

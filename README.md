@@ -1,8 +1,8 @@
 # 🛠 Ngobeni Khomotjo | Software Engineer
 
-I build systems where **performance is a requirement, not a "nice-to-have."** My focus is at the intersection of distributed systems, security, and low-level optimisation. Whether I’m writing Rust for a cryptographic primitive or Go for a high-concurrency feed, I aim for systems that are predictable, scalable, and secure by default.
+I build systems where **performance is a requirement, not a "nice-to-have."** My focus lies at the intersection of distributed systems, security, and low-level optimisation. Whether I’m writing Rust for a cryptographic primitive or Go for a high-concurrency feed, I aim for systems that are predictable, scalable, and secure by default.
 
-[GitHub](https://github.com/khomotjo-codes) • [Email Me](khomotjo.ngobeni@luchsia.com) 
+[GitHub](https://github.com/khomotjo-codes) • [khomotjo.ngobeni@luchsia.com](mailto:khomotjo.ngobeni@luchsia.com) 
 
 ---
 
@@ -24,13 +24,13 @@ I don't believe in "one tool for every job." I pick my stack based on the proble
 I’m currently developing an **E2EE Chat System** from the ground up. This isn't just about wrapping a library; it’s about implementing custom cryptographic workflows, ensuring forward secrecy, and handling group key distribution—all while maintaining offline delivery.
 
 ### **High-Scale Backend Infrastructure (Rust & Go)**
-I’ve built a modular platform that handles the heavy lifting of modern apps:
+I’ve built a modular platform that handles the heavy lifting of modern applications:
 * **IAM:** Solid auth/authz foundations.
-* **Social Fabric:** Graph-based relationship modeling and activity feeds.
+* **Social Fabric:** Graph-based relationship modelling and activity feeds.
 * **Real-Time Presence:** A Go-based service using heartbeat/TTL logic to track millions of concurrent user states with eventual consistency.
 
 ### **Media Processing Pipelines (C++)**
-Focused on low-latency ingestion. I work on optimizing throughput for media-heavy workloads where traditional high-level languages usually hit a bottleneck.
+Focused on low-latency ingestion. I work on optimising throughput for media-heavy workloads where traditional high-level languages usually hit a bottleneck.
 
 ---
 
@@ -45,4 +45,4 @@ Focused on low-latency ingestion. I work on optimizing throughput for media-heav
 ---
 
 ### **Let's talk shop.**
-If you’re working on hard problems in cryptography, distributed systems, or just want to argue about Rust vs. Go, [reach out on GitHub](https://github.com/khomotjo-codes).
+If you’re working on hard problems in cryptography, distributed systems, or just want to argue about Rust vs. Go, [get in touch](mailto:khomotjo.ngobeni@luchsia.com).

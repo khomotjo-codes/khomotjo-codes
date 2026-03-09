@@ -12,9 +12,9 @@ I don't believe in "one tool for every job." I pick my stack based on the proble
 
 * **Systems & Security:** I use **Rust** when memory safety and correctness are non-negotiable (E2EE, IAM).
 * **Scalable Services:** I lean on **Go** for distributed backends, real-time presence, and high-throughput notification engines.
+* **Data & Tooling:** I leverage **Python** for data-heavy workflows, rapid prototyping, and sophisticated backend logic where flexibility is key.
 * **Media & Performance:** When I need to squeeze every millisecond out of a pipeline, I go close to the metal with **C++**.
-* **Mobile:** I use **Flutter/Dart** to bridge the gap between complex backends and a clean user experience.
-* **Scripting:** Currently diving into **Lua** to extend system capabilities and automate workflows.
+* **Mobile:** I use **Flutter/Dart** to bridge the gap between complex backends and a clean user experience.* **Scripting:** Currently diving into **Lua** to extend system capabilities and automate workflows.
 
 ---
 

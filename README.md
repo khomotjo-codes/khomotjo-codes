@@ -12,9 +12,10 @@ I don't believe in "one tool for every job." I pick my stack based on the proble
 
 * **Systems & Security:** I use **Rust** when memory safety and correctness are non-negotiable (E2EE, IAM).
 * **Scalable Services:** I lean on **Go** for distributed backends, real-time presence, and high-throughput notification engines.
-* **Data & Tooling:** I leverage **Python** for data-heavy workflows, rapid prototyping, and sophisticated backend logic where flexibility is key.
+* **Data & Tooling:** I leverage **Python** for data-heavy workflows, rapid prototyping, and sophisticated backend logic.
 * **Media & Performance:** When I need to squeeze every millisecond out of a pipeline, I go close to the metal with **C++**.
-* **Mobile:** I use **Flutter/Dart** to bridge the gap between complex backends and a clean user experience.* **Scripting:** Currently diving into **Lua** to extend system capabilities and automate workflows.
+* **Scripting & Extensibility:** I use **Lua** for configuration, high-performance scripting, and extending system capabilities.
+* **Mobile:** I use **Flutter/Dart** to bridge the gap between complex backends and a clean user experience.
 
 ---
 
@@ -27,7 +28,7 @@ I’m currently developing an **E2EE Chat System** from the ground up. This isn'
 I’ve built a modular platform that handles the heavy lifting of modern applications:
 * **IAM:** Solid auth/authz foundations.
 * **Social Fabric:** Graph-based relationship modelling and activity feeds.
-* **Real-Time Presence:** A Go-based service using heartbeat/TTL logic to track millions of concurrent user states with eventual consistency.
+* **Real-Time Presence:** A Go-based service using heartbeat/TTL logic to track millions of concurrent user states.
 
 ### **Media Processing Pipelines (C++)**
 Focused on low-latency ingestion. I work on optimising throughput for media-heavy workloads where traditional high-level languages usually hit a bottleneck.
@@ -39,8 +40,8 @@ Focused on low-latency ingestion. I work on optimising throughput for media-heav
 > "Security and performance aren't features you 'bolt on' at the end; they are the foundation."
 
 * **Clarity > Cleverness:** If a junior dev can’t maintain it, the code is a liability.
-* **Design for Scale:** Horizontal scaling should be a natural outcome of the architecture, not a panicked reaction to traffic.
-* **Continuous Learning:** Right now, I'm going deeper into **distributed system patterns** and the nuances of **media codecs**.
+* **Design for Scale:** Horizontal scaling should be a natural outcome of the architecture.
+* **Continuous Learning:** Right now, I'm going deeper into **distributed system patterns**, the nuances of **media codecs**, and mastering **Lua** for system-level scripting.
 
 ---
 

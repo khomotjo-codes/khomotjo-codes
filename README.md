@@ -1,8 +1,8 @@
 # 🛠 Ngobeni Khomotjo | Software Engineer
 
-I build systems where **performance is a requirement, not a "nice-to-have."** My focus is at the intersection of distributed systems, security, and low-level optimization. Whether I’m writing Rust for a cryptographic primitive or Go for a high-concurrency feed, I aim for systems that are predictable, scalable, and secure by default.
+I build systems where **performance is a requirement, not a "nice-to-have."** My focus is at the intersection of distributed systems, security, and low-level optimisation. Whether I’m writing Rust for a cryptographic primitive or Go for a high-concurrency feed, I aim for systems that are predictable, scalable, and secure by default.
 
-[GitHub](https://github.com/khomotjo-codes) • [Email Me](#) 
+[GitHub](https://github.com/khomotjo-codes) • [Email Me](khomotjo.ngobeni@luchsia.com) 
 
 ---
 

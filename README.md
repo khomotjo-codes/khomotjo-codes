@@ -1,107 +1,48 @@
-# 👋 Hi, I'm Ngobeni Khomotjo
+# 🛠 Ngobeni Khomotjo | Software Engineer
 
-I'm a software engineer focused on building **scalable, secure, and high-performance systems**. I enjoy working close to the metal when it matters, and higher-level abstractions when they help move fast.
+I build systems where **performance is a requirement, not a "nice-to-have."** My focus is at the intersection of distributed systems, security, and low-level optimization. Whether I’m writing Rust for a cryptographic primitive or Go for a high-concurrency feed, I aim for systems that are predictable, scalable, and secure by default.
 
-Most of my work revolves around **distributed systems, backend infrastructure, and product-oriented engineering**.  
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-- 🦀 Rust — systems, security, backend services  
-- 🐹 Go — distributed services, feeds, notifications  
-- 🐍 Python  
-- ⚙️ C++ — media & performance-heavy workloads  
-- 💙 Dart / Flutter  
-- 🌙 Lua — currently learning  
-
-**Domains**
-- End-to-end encryption (E2EE)  
-- Identity & Access Management (IAM)  
-- Social graphs & activity feeds  
-- Search & indexing  
-- Notification systems  
-- Real-time presence (Go)  
-- Media processing  
-- Mobile app development  
+[GitHub](https://github.com/khomotjo-codes) • [Email Me](#) 
 
 ---
 
-## 🚀 Projects
+## 🧭 The Toolkit
 
-> **Note:** Some projects are proprietary. Public demo repos and sanitized examples are available [here](#) (if applicable).
+I don't believe in "one tool for every job." I pick my stack based on the problem's constraints:
 
-### 🔐 End-to-End Encrypted Chat (Rust)
-- Privacy-first secure messaging system  
-- Custom cryptographic workflows for message and group security  
-- Actively under development  
-
-<details>
-<summary>Learn more</summary>
-
-- Device-level keys and forward secrecy  
-- Group messaging & offline delivery support  
-- End-to-end encrypted storage and retrieval  
-
-</details>
+* **Systems & Security:** I use **Rust** when memory safety and correctness are non-negotiable (E2EE, IAM).
+* **Scalable Services:** I lean on **Go** for distributed backends, real-time presence, and high-throughput notification engines.
+* **Media & Performance:** When I need to squeeze every millisecond out of a pipeline, I go close to the metal with **C++**.
+* **Mobile:** I use **Flutter/Dart** to bridge the gap between complex backends and a clean user experience.
+* **Scripting:** Currently diving into **Lua** to extend system capabilities and automate workflows.
 
 ---
 
-### 🧩 Backend Platform (Rust & Go)
-- IAM platform — authentication & authorization  
-- Social graph & relationship modeling  
-- Search index, activity feed, notification system  
-- Content store  
+## 🏗 What I’m Building
 
-Rust powers security-critical services; Go powers **high-throughput, scalable backend services**.  
+### **Privacy-First Communication (Rust)**
+I’m currently developing an **E2EE Chat System** from the ground up. This isn't just about wrapping a library; it’s about implementing custom cryptographic workflows, ensuring forward secrecy, and handling group key distribution—all while maintaining offline delivery.
 
-<details>
-<summary>Learn more</summary>
+### **High-Scale Backend Infrastructure (Rust & Go)**
+I’ve built a modular platform that handles the heavy lifting of modern apps:
+* **IAM:** Solid auth/authz foundations.
+* **Social Fabric:** Graph-based relationship modeling and activity feeds.
+* **Real-Time Presence:** A Go-based service using heartbeat/TTL logic to track millions of concurrent user states with eventual consistency.
 
-- Event-driven architecture with queues and streams  
-- Multi-service horizontal scaling  
-- Robust logging, monitoring, and observability  
-
-</details>
+### **Media Processing Pipelines (C++)**
+Focused on low-latency ingestion. I work on optimizing throughput for media-heavy workloads where traditional high-level languages usually hit a bottleneck.
 
 ---
 
-### 🟢 Real-Time Presence System (Go)
-- Tracks online/offline/active users in real time  
-- Multi-device aggregation with heartbeat and TTL-based liveness  
-- Event-driven updates integrated with chat, feeds, and notifications  
-- Designed for **eventual consistency**, high concurrency, and privacy-conscious propagation  
+## 🧠 Engineering Mindset
+
+> "Security and performance aren't features you 'bolt on' at the end; they are the foundation."
+
+* **Clarity > Cleverness:** If a junior dev can’t maintain it, the code is a liability.
+* **Design for Scale:** Horizontal scaling should be a natural outcome of the architecture, not a panicked reaction to traffic.
+* **Continuous Learning:** Right now, I'm going deeper into **distributed system patterns** and the nuances of **media codecs**.
 
 ---
 
-### 🎥 Media Processing (C++)
-- Performance-focused pipelines for media ingestion and processing  
-- Low-level latency and throughput optimizations  
-
----
-
-### 📱 Social Media App (Flutter)
-- Cross-platform mobile application  
-- Integrates seamlessly with custom backend services  
-
----
-
-## 🌱 Currently Learning
-- Lua  
-- Deeper distributed systems patterns  
-- Improving media processing pipelines  
-
----
-
-## 💡 Engineering Philosophy
-- Prefer **correctness and clarity** over cleverness  
-- Build systems that scale **by design**, not by accident  
-- Security and performance are **features, not afterthoughts**  
-
----
-
-## 📫 Get in Touch
-- GitHub: [https://github.com/khomotjo-codes](https://github.com/khomotjo-codes)  
-
-Always open to interesting discussions, collaboration, and hard problems.
+### **Let's talk shop.**
+If you’re working on hard problems in cryptography, distributed systems, or just want to argue about Rust vs. Go, [reach out on GitHub](https://github.com/khomotjo-codes).

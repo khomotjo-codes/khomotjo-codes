@@ -1,49 +1,56 @@
-# 🛠 Ngobeni Khomotjo | Software Engineer
+# Ngobeni Khomotjo
 
-I build systems where **performance is a requirement, not a "nice-to-have."** My focus lies at the intersection of distributed systems, security, and low-level optimisation. Whether I’m writing Rust for a cryptographic primitive or Go for a high-concurrency feed, I aim for systems that are predictable, scalable, and secure by default.
+Software Engineer & Founder of [Luvart](https://luchsia.com)
 
-[GitHub](https://github.com/khomotjo-codes) • [khomotjo.ngobeni@luchsia.com](mailto:khomotjo.ngobeni@luchsia.com) 
-
----
-
-## 🧭 The Toolkit
-
-I don't believe in "one tool for every job." I pick my stack based on the problem's constraints:
-
-* **Systems & Security:** I use **Rust** when memory safety and correctness are non-negotiable (E2EE, IAM).
-* **Scalable Services:** I lean on **Go** for distributed backends, real-time presence, and high-throughput notification engines.
-* **Data & Tooling:** I leverage **Python** for data-heavy workflows, rapid prototyping, and sophisticated backend logic.
-* **Media & Performance:** When I need to squeeze every millisecond out of a pipeline, I go close to the metal with **C++**.
-* **Scripting & Extensibility:** I use **Lua** for configuration, high-performance scripting, and extending system capabilities.
-* **Mobile:** I use **Flutter/Dart** to bridge the gap between complex backends and a clean user experience.
+I build the infrastructure behind Luvart — a platform that sits at the 
+intersection of secure communication, identity, and social connectivity. 
+Most of my time is spent in the parts of the stack where correctness and 
+performance aren't optional.
 
 ---
 
-## 🏗 What I’m Building
+## Stack
 
-### **Privacy-First Communication (Rust)**
-I’m currently developing an **E2EE Chat System** from the ground up. This isn't just about wrapping a library; it’s about implementing custom cryptographic workflows, ensuring forward secrecy, and handling group key distribution—all while maintaining offline delivery.
+I pick tools based on what the problem demands:
 
-### **High-Scale Backend Infrastructure (Rust & Go)**
-I’ve built a modular platform that handles the heavy lifting of modern applications:
-* **IAM:** Solid auth/authz foundations.
-* **Social Fabric:** Graph-based relationship modelling and activity feeds.
-* **Real-Time Presence:** A Go-based service using heartbeat/TTL logic to track millions of concurrent user states.
-
-### **Media Processing Pipelines (C++)**
-Focused on low-latency ingestion. I work on optimising throughput for media-heavy workloads where traditional high-level languages usually hit a bottleneck.
+- **Rust** — E2EE, IAM, anything where memory safety and correctness are non-negotiable
+- **Go** — distributed services, real-time presence, high-throughput notification engines
+- **Python** — data workflows, backend tooling, rapid prototyping
+- **C++** — media ingestion pipelines where high-level languages hit a ceiling
+- **Lua** — scripting, configuration, extending system capabilities
+- **Flutter / Dart** — mobile, bridging complex backends with a clean user experience
 
 ---
 
-## 🧠 Engineering Mindset
+## What I'm Building at Luvart
 
-> "Security and performance aren't features you 'bolt on' at the end; they are the foundation."
+### 🔐 End-to-End Encrypted Messaging (Rust)
+Custom cryptographic workflows — not just library wrappers. Forward secrecy, 
+group key distribution, and offline delivery are all first-class concerns.
 
-* **Clarity > Cleverness:** If a junior dev can’t maintain it, the code is a liability.
-* **Design for Scale:** Horizontal scaling should be a natural outcome of the architecture.
-* **Continuous Learning:** Right now, I'm going deeper into **distributed system patterns**, the nuances of **media codecs**, and mastering **Lua** for system-level scripting.
+### 🏗 Backend Platform (Rust & Go)
+A modular infrastructure layer covering:
+- **IAM** — authentication and authorization foundations
+- **Social graph** — relationship modelling and activity feeds
+- **Real-time presence** — heartbeat/TTL-based service tracking concurrent user states across devices
+
+### 🎥 Media Processing (C++)
+Low-latency ingestion pipelines built for throughput, in the places where 
+garbage collection and runtime overhead aren't acceptable trade-offs.
+
+### 📱 Mobile (Flutter)
+Cross-platform client that ties everything together.
 
 ---
 
-### **Let's talk shop.**
-If you’re working on hard problems in cryptography, distributed systems, or just want to argue about Rust vs. Go, [get in touch](mailto:khomotjo.ngobeni@luchsia.com).
+## Currently Exploring
+- Deeper distributed systems patterns
+- Media codec internals
+- Lua for system-level scripting
+
+---
+
+## Get in Touch
+- Email: khomotjo.ngobeni@luchsia.com
+- LinkedIn: [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
+- LeetCode: [khomotjo_codes](https://leetcode.com/u/khomotjo_codes/)

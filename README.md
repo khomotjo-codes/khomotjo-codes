@@ -2,10 +2,9 @@
 
 Software Engineer & Founder of [Luvart](https://luchsia.com)
 
-I build the infrastructure behind Luvart — a platform that sits at the 
-intersection of secure communication, identity, and social connectivity. 
-Most of my time is spent in the parts of the stack where correctness and 
-performance aren't optional.
+Privacy and social connection shouldn't be trade-offs. Luvart is my attempt to prove that — a platform built at the intersection of secure communication, identity, and real human connection.
+
+I spend most of my time in the parts of the stack where getting it wrong isn't an option.
 
 ---
 
@@ -25,8 +24,7 @@ I pick tools based on what the problem demands:
 ## What I'm Building at Luvart
 
 ### 🔐 End-to-End Encrypted Messaging (Rust)
-Custom cryptographic workflows — not just library wrappers. Forward secrecy, 
-group key distribution, and offline delivery are all first-class concerns.
+Custom cryptographic workflows — not just library wrappers. Forward secrecy, group key distribution, and offline delivery are all first-class concerns.
 
 ### 🏗 Backend Platform (Rust & Go)
 A modular infrastructure layer covering:
@@ -35,16 +33,15 @@ A modular infrastructure layer covering:
 - **Real-time presence** — heartbeat/TTL-based service tracking concurrent user states across devices
 
 ### 🎥 Media Processing (C++)
-Low-latency ingestion pipelines built for throughput, in the places where 
-garbage collection and runtime overhead aren't acceptable trade-offs.
+Low-latency ingestion pipelines built for throughput, in the places where garbage collection and runtime overhead aren't acceptable trade-offs.
 
 ### 📱 Mobile (Flutter)
 Cross-platform client that ties everything together.
 
 ---
 
-## Currently Exploring
-- Deeper distributed systems patterns
+## Deep In Right Now
+- Distributed systems patterns at scale
 - Media codec internals
 - Lua for system-level scripting
 
@@ -53,4 +50,7 @@ Cross-platform client that ties everything together.
 ## Get in Touch
 - Email: khomotjo.ngobeni@luchsia.com
 - LinkedIn: [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
-- LeetCode: [khomotjo_codes](https://leetcode.com/u/khomotjo_codes/)
+
+---
+
+*Building something hard. Doing it right.*

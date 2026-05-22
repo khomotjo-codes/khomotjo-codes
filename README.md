@@ -1,6 +1,6 @@
 # Ngobeni Khomotjo
 
-Software Engineer & Founder of [Luvart](https://luchsia.com)
+Software Engineer & Founder of [The Luvart Platforms (Pty) Ltd](https://luchsia.com)
 
 Privacy and social connection shouldn't be trade-offs. Luvart is my attempt to prove that — a platform built at the intersection of secure communication, identity, and real human connection.
 

@@ -23,19 +23,19 @@ I pick tools based on what the problem demands:
 
 ## What I'm Building at Luvart
 
-### 🔐 End-to-End Encrypted Messaging (Rust)
+###  End-to-End Encrypted Messaging (Rust)
 Custom cryptographic workflows — not just library wrappers. Forward secrecy, group key distribution, and offline delivery are all first-class concerns.
 
-### 🏗 Backend Platform (Rust & Go)
+###  Backend Platform (Rust & Go)
 A modular infrastructure layer covering:
 - **IAM** — authentication and authorization foundations
 - **Social graph** — relationship modelling and activity feeds
 - **Real-time presence** — heartbeat/TTL-based service tracking concurrent user states across devices
 
-### 🎥 Media Processing (C++)
+###  Media Processing (C++)
 Low-latency ingestion pipelines built for throughput, in the places where garbage collection and runtime overhead aren't acceptable trade-offs.
 
-### 📱 Mobile (Flutter)
+###  Mobile (Flutter)
 Cross-platform client that ties everything together.
 
 ---

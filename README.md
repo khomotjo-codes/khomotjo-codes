@@ -30,27 +30,32 @@ I pick tools based on what the problem demands:
 **19+ microservices across identity, social, media, and platform infrastructure.**
 
 ### Identity & Security
+
 - **IAM** — authentication, authorization, session and access control
 - **E2EE Messaging** — custom cryptographic workflows, forward secrecy, group key distribution, offline delivery
 
 ### Social & Real-Time
+
 - **Social Graph** — relationship modelling and graph traversal
 - **Presence** — heartbeat/TTL-based tracking of concurrent user states across devices
 - **Activity Feed** — fan-out, ranking, and delivery
 - **Profile** — user identity and profile service
 
 ### Media & Content
+
 - **Media Processing** — low-latency C++ ingestion pipelines
 - **Content Store** — durable storage and retrieval
 - **CDN Content** — edge delivery and cache management
 - **Load Balancer** — traffic distribution and service routing
 
 ### Platform Infrastructure
+
 - **API Gateway** — unified entry point, routing, rate limiting, auth
 - **Notification Engine** — high-throughput delivery (Go)
 - **And more** — service discovery, config, observability, and other internal services
 
 ### Client
+
 - **Mobile (Flutter)** — cross-platform client that ties into the full backend
 
 ---
@@ -65,8 +70,9 @@ I pick tools based on what the problem demands:
 
 ## Get in Touch
 
-- **Email:** khomotjo.ngobeni@luchsia.com
+- **Email:** [khomotjo.ngobeni@luchsia.com](mailto:khomotjo.ngobeni@luchsia.com)
 - **LinkedIn:** [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
+- **Luvart:** [luchsia.com](https://luchsia.com)
 
 ---
 

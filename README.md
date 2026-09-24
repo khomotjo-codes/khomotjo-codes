@@ -1,10 +1,18 @@
 # Ngobeni Khomotjo
 
-Lead Engineer & Founder | [The Luvart Platforms](https://luchsia.com)
+**Founder & CEO / Lead Engineer** | [The Luvart Platforms](https://luchsia.com)
 
-Privacy and social connection shouldn't be trade-offs. I build systems at the intersection of secure communication, identity, and real human connection — with a focus on correctness, scale, and privacy.
+I build systems at the intersection of secure communication, identity, and real human connection. My work is driven by a simple belief: privacy and social connection shouldn't be trade-offs, and difference is not something platforms should flatten in pursuit of scale.
 
-I lead engineering at The Luvart Platforms and am available for select freelancing engagements.
+I founded The Luvart Platforms and lead its engineering from the ground up. I am also available for select freelancing engagements.
+
+---
+
+## About Luvart
+
+Luvart is a privacy-first cultural social platform built for communities to speak, post, and connect in their own language and on their own terms. It is ad-free, with no data selling and no third-party tracking. The platform is powered by Luchsia, our wholly-owned infrastructure subsidiary, which provides the encrypted, privacy-first microservices layer beneath everything.
+
+A second product, **Setso**, is a multilingual cultural knowledge search engine — search in the language you think in, with the translation work handled for you.
 
 ---
 
@@ -27,12 +35,12 @@ I work across the stack, with a focus on:
 
 I pick tools based on what the problem demands:
 
-- Rust — E2EE, IAM, search, and systems where memory safety and correctness are non-negotiable.
-- Go — Distributed services, real-time presence, and high-throughput notification engines.
-- Python — Data workflows, ML-heavy systems, analytics, and rapid prototyping.
-- C++ — Media ingestion pipelines where high-level languages hit a ceiling.
-- Lua — Scripting, configuration, and extending system capabilities.
-- Flutter / Dart — Mobile, bridging complex backends with a clean user experience.
+- **Rust** — E2EE, IAM, search, and systems where memory safety and correctness are non-negotiable.
+- **Go** — Distributed services, real-time presence, and high-throughput notification engines.
+- **Python** — Data workflows, ML-heavy systems, analytics, and rapid prototyping.
+- **C++** — Media ingestion pipelines where high-level languages hit a ceiling.
+- **Lua** — Scripting, configuration, and extending system capabilities.
+- **Flutter / Dart** — Mobile, bridging complex backends with a clean user experience.
 
 ---
 
@@ -46,8 +54,8 @@ I pick tools based on what the problem demands:
 
 ## Get in Touch
 
-- Email: khomotjo.ngobeni@luchsia.com
-- LinkedIn: [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
+- **Email:** khomotjo.ngobeni@luchsia.com
+- **LinkedIn:** [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
 
 ---
 

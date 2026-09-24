@@ -1,10 +1,26 @@
 # Ngobeni Khomotjo
 
-**Software Engineer & Founder of [The Luvart Platforms (Pty) Ltd](https://luchsia.com)**
+Lead Engineer & Founder  
+[The Luvart Platforms (Pty) Ltd](https://luchsia.com)
 
-Privacy and social connection shouldn't be trade-offs. Luvart is my attempt to prove that — a platform built at the intersection of secure communication, identity, and real human connection.
+Privacy and social connection shouldn't be trade-offs. I build systems at the intersection of secure communication, identity, and real human connection — with a focus on correctness, scale, and privacy.
 
-I spend most of my time in the parts of the stack where getting it wrong isn't an option. I am the lead engineer at The Luvart Platforms and am available for select freelancing engagements.
+I lead engineering at The Luvart Platforms and am available for select freelancing engagements.
+
+---
+
+## Skills
+
+I work across the stack, with a focus on:
+
+- Distributed systems and backend architecture
+- Identity, authentication, and authorization
+- End-to-end encryption and secure messaging
+- Real-time presence and notifications
+- Media ingestion and processing
+- Search, indexing, and data pipelines
+- Recommendations, analytics, and abuse detection
+- Mobile development with Flutter/Dart
 
 ---
 
@@ -12,68 +28,27 @@ I spend most of my time in the parts of the stack where getting it wrong isn't a
 
 I pick tools based on what the problem demands:
 
-- **Rust** — E2EE, IAM, search, and anything where memory safety and correctness are non-negotiable.
-- **Go** — Distributed services, real-time presence, and high-throughput notification engines.
-- **Python** — Data workflows, ML-heavy systems, analytics, and rapid prototyping.
-- **C++** — Media ingestion pipelines where high-level languages hit a ceiling.
-- **Lua** — Scripting, configuration, and extending system capabilities.
-- **Flutter / Dart** — Mobile, bridging complex backends with a clean user experience.
+- Rust — E2EE, IAM, search, and systems where memory safety and correctness are non-negotiable.
+- Go — Distributed services, real-time presence, and high-throughput notification engines.
+- Python — Data workflows, ML-heavy systems, analytics, and rapid prototyping.
+- C++ — Media ingestion pipelines where high-level languages hit a ceiling.
+- Lua — Scripting, configuration, and extending system capabilities.
+- Flutter / Dart — Mobile, bridging complex backends with a clean user experience.
 
 ---
 
-## What I'm Building at Luvart
+## Currently Exploring
 
-I am responsible for the architecture and implementation of the core platform services.
-
-### Identity & Social
-
-- **Identity (IAM, Rust)** — Authentication and authorization foundations.
-- **User Profile (Rust)** — User data and profile management.
-- **Social Graph (Rust, petgraph)** — Relationship modelling and graph traversal.
-
-### Core Platform
-
-- **API Gateway (Go)** — Central entry point for all client requests.
-- **Load Balancer (Go)** — Distributes traffic across services.
-- **Rate Limit (Go)** — Protects services from abuse and overload.
-- **Feature Flags (Go)** — Manages feature rollouts and A/B testing.
-- **CDN Origin (Go)** — Serves static and media content at scale.
-
-### Communication & Media
-
-- **Messaging (Signal Protocol, Rust)** — End-to-end encrypted messaging with forward secrecy.
-- **Notifications (Go)** — Push, SMS, Email, and WebSocket delivery.
-- **Presence (Go)** — Online status with heartbeat/TTL tracking across distributed systems.
-- **Media Processing (C++)** — Low-latency ingestion and transcoding pipelines.
-- **Content Store (Go)** — Durable storage and retrieval for user content.
-
-### Data & Intelligence
-
-- **Activity Feed (Go)** — Real-time feed generation and delivery.
-- **Search & Indexing (Rust, Tantivy)** — Full-text search and indexing.
-- **Recommendations (Python)** — ML-driven content and connection suggestions.
-- **Analytics (Python)** — ML-heavy statistics and platform insights.
-- **Abuse Detection (Python)** — Automated detection of malicious behavior.
-- **Data Lake (Python)** — Centralized repository for structured and unstructured data.
-
-### Mobile
-
-- **Flutter** — Cross-platform client that ties everything together.
-
----
-
-## Deep In Right Now
-
-- Distributed systems patterns at scale.
-- Media codec internals.
-- Learning Lua for distributed scripting.
+- Distributed systems patterns at scale
+- Media codec internals
+- Lua for distributed scripting
 
 ---
 
 ## Get in Touch
 
-- **Email:** khomotjo.ngobeni@luchsia.com
-- **LinkedIn:** [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
+- Email: khomotjo.ngobeni@luchsia.com
+- LinkedIn: [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
 
 ---
 

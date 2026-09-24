@@ -1,7 +1,6 @@
 # Ngobeni Khomotjo
 
-Lead Engineer & Founder  
-[The Luvart Platforms (Pty) Ltd](https://luchsia.com)
+Lead Engineer & Founder | [The Luvart Platforms](https://luchsia.com)
 
 Privacy and social connection shouldn't be trade-offs. I build systems at the intersection of secure communication, identity, and real human connection — with a focus on correctness, scale, and privacy.
 

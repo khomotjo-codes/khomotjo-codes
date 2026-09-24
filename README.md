@@ -4,7 +4,7 @@
 
 I build reliable, secure software that solves real operational problems for businesses in Mogalakwena and across Limpopo. From school administration and guesthouse bookings to POPIA-compliant patient systems and legal practice tools.
 
-**Available for freelance projects.** [Email me](mailto:[your-email]) · [WhatsApp me](https://wa.me/27765805453) · [LinkedIn](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
+**Available for freelance projects.** [Email me](mailto:khomotjoshiraz@gmail.com) · [WhatsApp me](https://wa.me/27765805453) · [LinkedIn](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
 
 ---
 
@@ -87,7 +87,7 @@ Every project is quoted individually after a free consultation. You'll always kn
 Ready to solve a problem, or just want to ask a question? Reach out — I respond to every message.
 
 - **Email:** khomotjoshiraz@gmail.coml
-- **WhatsApp:** +27 76 580 5453
+- **WhatsApp:** +27765805453
 - **LinkedIn:** https://www.linkedin.com/in/khomotjo-ngobeni-674278387/
 - **Location:** Mokopane, Limpopo, South Africa
 

@@ -1,77 +1,56 @@
-# Khomotjo Codes
+# Ngobeni Khomotjo
 
-**Software engineer based in Mokopane, Limpopo.** I build secure, reliable software for schools, healthcare practices, guesthouses, restaurants, and legal firms across Limpopo.
+Software Engineer & Founder of [The Luvart Platforms (Pty) Ltd](https://luchsia.com)
 
-Available for freelance projects.  
-[Email](mailto:khomotjoshiraz@gmail.com) · [WhatsApp](https://wa.me/27765805453) · [LinkedIn](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
+Privacy and social connection shouldn't be trade-offs. Luvart is my attempt to prove that — a platform built at the intersection of secure communication, identity, and real human connection.
 
----
-
-## What I Build
-
-- **Schools:** learner management, electronic report cards, parent communication, SA-SAMS-friendly tools.
-- **Healthcare:** patient scheduling, appointment reminders, inventory tracking, POPIA-compliant records.
-- **Guesthouses & hotels:** online bookings, availability calendars, automated confirmations, channel management.
-- **Restaurants:** POS, order tracking, menu management, daily sales reports.
-- **Legal services:** matter management, time capture, invoicing, trust accounting, FICA-aligned workflows.
+I spend most of my time in the parts of the stack where getting it wrong isn't an option.
 
 ---
 
-## Why Work With Me
+## Stack
 
-- **Local.** I’m based in Mokopane and available in person when needed.
-- **Security-first.** I’ve built production-grade identity, encryption, and authentication systems.
-- **POPIA-aware.** I build with South African data protection requirements in mind.
-- **Load-shedding ready.** Systems are designed to work offline or recover gracefully when power and connectivity drop.
-- **Built to last.** I build maintainable systems that can grow with your business.
+I pick tools based on what the problem demands:
 
----
-
-## Tech Stack
-
-Python, Flutter, Go, Rust, C++, and modern web tools. I choose what fits the problem — not what’s trending.
+- **Rust** — E2EE, IAM, anything where memory safety and correctness are non-negotiable
+- **Go** — distributed services, real-time presence, high-throughput notification engines
+- **Python** — data workflows, backend tooling, rapid prototyping
+- **C++** — media ingestion pipelines where high-level languages hit a ceiling
+- **Lua** — scripting, configuration, extending system capabilities
+- **Flutter / Dart** — mobile, bridging complex backends with a clean user experience
 
 ---
 
-## About My Portfolio
+## What I'm Building at Luvart
 
-Most of my production work is private client work, so it isn’t publicly visible. That work includes distributed systems, secure identity platforms, realtime communication tools, and encrypted messaging infrastructure.
+###  End-to-End Encrypted Messaging (Rust)
+Custom cryptographic workflows — not just library wrappers. Forward secrecy, group key distribution, and offline delivery are all first-class concerns.
 
-If you’d like proof before committing, I’m happy to build a small working demo for your sector — for example:
+###  Backend Platform (Rust & Go)
+A modular infrastructure layer covering:
+- **IAM** — authentication and authorization foundations
+- **Social graph** — relationship modelling and activity feeds
+- **Real-time presence** — heartbeat/TTL-based service tracking concurrent user states across devices
 
-- A booking widget for a guesthouse
-- A parent-notification demo for a school
-- A simple POS dashboard for a restaurant
+###  Media Processing (C++)
+Low-latency ingestion pipelines built for throughput, in the places where garbage collection and runtime overhead aren't acceptable trade-offs.
 
-Just ask.
-
----
-
-## How I Work
-
-1. **Free consultation** — We discuss your problem. No jargon. No pressure.
-2. **Written proposal** — Scope, timeline, and cost before I start.
-3. **Regular updates** — You see progress, not silence.
-4. **Handover & training** — I show you and your staff how to use it.
-5. **Support** — Ongoing support is available after delivery.
+###  Mobile (Flutter)
+Cross-platform client that ties everything together.
 
 ---
 
-## Pricing
-
-- **Starter:** from R7,500 — one focused problem, quick build.
-- **Standard:** from R25,000 — full system for one department or function.
-- **Premium:** from R80,000+ — integrated system across your operation.
-
-Every project is quoted individually after a free consultation. You’ll always know the cost before I start.
+## Deep In Right Now
+- Distributed systems patterns at scale
+- Media codec internals
+- Lua for system-level scripting
 
 ---
 
-## Get In Touch
+## Get in Touch
+- Email: khomotjo.ngobeni@luchsia.com
+- LinkedIn: [khomotjo-ngobeni](https://www.linkedin.com/in/khomotjo-ngobeni-674278387/)
 
-- **Email:** khomotjoshiraz@gmail.com  
-- **WhatsApp:** +27 76 580 5453  
-- **LinkedIn:** https://www.linkedin.com/in/khomotjo-ngobeni-674278387/  
-- **Location:** Mokopane, Limpopo, South Africa
+---
 
 *Building something hard. Doing it right.*
